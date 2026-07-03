@@ -71,4 +71,5 @@ conservatively when the sell ratio exceeds ~55%.
 
 ## Files
 - `Track_Sentiment_Analysis.ipynb` — full analysis
+- `/charts` - exported visualizations
 - `README.md` — this file
